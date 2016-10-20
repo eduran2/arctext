@@ -1,7 +1,12 @@
 /********************
 YOUR STYLES
 *******************/
-
+h1{
+    background: limegreen;
+    color: black;
+    padding: 3em;
+    text-align: center;
+}
 
 
 
